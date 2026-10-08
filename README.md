@@ -23,16 +23,16 @@ AirMove is a vision-based touchless gesture interaction solution. It uses a came
 The following are real-usage screen recordings; click to play:
 
 **Computer Control (palm movement = cursor movement)**
-<video src="./media/demo-pc-control.mp4" controls muted></video>
+![demo-pc-control](./media/demo-pc-control.gif)
 
 **Big-screen Control Demo**
-<video src="./media/demo-big-screen.mp4" controls muted></video>
+![demo-big-screen](./media/demo-big-screen.gif)
 
 **Interactive Game Demo (fishing game)**
-<video src="./media/demo-fish-game.mp4" controls muted></video>
+![demo-fish-game](./media/demo-fish-game.gif)
 
 **More Control Clips**
-<video src="./media/demo-control-clip.mp4" controls muted></video>
+![demo-control-clip](./media/demo-control-clip.gif)
 
 
 ## Features

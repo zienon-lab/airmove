@@ -23,16 +23,16 @@ AirMove 是一套基于视觉的隔空手势交互方案。它利用摄像头实
 以下为真实使用录屏，点击即可播放：
 
 **控制电脑（手掌移动即光标移动）**
-<video src="./media/demo-pc-control.mp4" controls muted></video>
+![demo-pc-control](./media/demo-pc-control.gif)
 
 **大屏控制演示**
-<video src="./media/demo-big-screen.mp4" controls muted></video>
+![demo-big-screen](./media/demo-big-screen.gif)
 
 **互动游戏演示（捕鱼游戏）**
-<video src="./media/demo-fish-game.mp4" controls muted></video>
+![demo-fish-game](./media/demo-fish-game.gif)
 
 **更多控制片段**
-<video src="./media/demo-control-clip.mp4" controls muted></video>
+![demo-control-clip](./media/demo-control-clip.gif)
 
 
 ## 功能特性
